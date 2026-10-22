@@ -1,0 +1,8 @@
+name: SurvivalTeamBattle
+description: $description
+version: '${version}'
+
+main: dev.tdmnhat.plugin.SurvivalTeamBattle
+api-version: '26.1'
+
+authors: [ tdminhnhat ]
